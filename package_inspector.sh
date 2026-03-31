@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script 2: FOSS Package Inspector
+# Script 2: FOSS Package Inspector 
 
 PACKAGE="python3" # We use python3 as it is the standard package name on most modern Linux distros
 
